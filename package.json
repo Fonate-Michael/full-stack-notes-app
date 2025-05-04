@@ -1,0 +1,21 @@
+{
+  "name": "notesapp1.0",
+  "version": "1.0.0",
+  "description": "this is our first online collaborative project ",
+  "homepage": "https://github.com/Fonate-Michael/full-stack-notes-app#readme",
+  "bugs": {
+    "url": "https://github.com/Fonate-Michael/full-stack-notes-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fonate-Michael/full-stack-notes-app.git"
+  },
+  "license": "ISC",
+  "author": "Alto and Michael",
+  "type": "module",
+  "main": "test.js",
+  "scripts": {
+    "dev": "nodemon test",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
